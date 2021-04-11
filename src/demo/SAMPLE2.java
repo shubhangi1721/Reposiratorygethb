@@ -1,7 +1,8 @@
 package demo;
-public class sample1 
-{	
+
+public class SAMPLE2
+{
 public static void main(String[] args) {
-System.out.println("hiii");
+	System.out.println("hellooooo");
 }
 }
